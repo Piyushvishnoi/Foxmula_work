@@ -2,7 +2,7 @@ package Assignment1;
  
 class Quadrilateral
 {
-	protected int x1,x2,x3,x4,y1,y2,y3,y4;
+	protected double x1,x2,x3,x4,y1,y2,y3,y4;
 	protected void setCoordinate(int a, int b, int c, int d, int e, int f, int g, int h)
 	{
 		x1=a;
