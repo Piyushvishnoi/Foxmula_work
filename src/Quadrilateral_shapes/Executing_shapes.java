@@ -10,10 +10,5 @@ public class Executing_shapes {
 		System.out.println("Area of Rectange : " + r.area());
 		Square s = new Square(0, 0, 2, 0, 2 ,2, 0, 2);
 		System.out.println("Area of Square : " + s.area());
-		
-		/*System.out.println("Area of Square : " + s.area());
-		System.out.println("Area of Rectange : " + r.area());
-		System.out.println("Area of Parallelogram : " + p.area());
-		System.out.println("Area of Trapezoid : " + t.area()); */
 	}
 }
